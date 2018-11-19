@@ -7,7 +7,7 @@ Dynamically disable/enable Laravel's Eloquent model observers. This library prov
 Install using composer:
 
 ```
-composer require nicoaudy/ignorable-observers
+composer require nicoaudy/ignoreable-observers
 ```
 
 ## Usage
